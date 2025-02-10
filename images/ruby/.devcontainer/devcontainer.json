@@ -15,7 +15,7 @@
       "version": "latest",
       "ppa": "false"
     },
-    "ghcr.io/rails/devcontainer/features/ruby": {
+    "ghcr.io/djpremier/rails-devcontainer/features/ruby": {
       "version": "${localEnv:RUBY_VERSION}"
     },
   },
